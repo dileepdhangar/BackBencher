@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, feel free to reach out to us at [your-email@example.com](mailto:praveen.sahu7512@gmail.com).
+For any questions or inquiries, feel free to reach out to us at [praveen.sahu7512@gmail.com](mailto:praveen.sahu7512@gmail.com).
