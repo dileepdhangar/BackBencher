@@ -20,7 +20,7 @@ LectureNotesGenerator is an Android application that utilizes cutting-edge techn
 
 ## Video Overview
 
-[![LectureNotesGenerator Video Overview](link-to-your-video-thumbnail)](link-to-your-video)
+https://github.com/praveen7512/BackBencher/assets/72389100/4a7b9eeb-1cd0-4458-adcb-4b485fb09266
 
 Watch our video overview to see LectureNotesGenerator in action! Learn how to generate lecture notes, summaries, and question papers from YouTube videos with ease.
 
